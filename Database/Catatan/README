@@ -1,0 +1,18 @@
+Materi:
+http://gg.gg/olcdbquery
+
+Daftar hackerrank:
+https://www.hackerrank.com/
+
+1. bikin db baru
+    CREATE DATABASE olc19;
+2. lihat db
+    SHOW DATABASES;
+3. use db
+    use olc19;
+4. lihat table di db
+    show tables;
+5. bikin table persons
+6. lihat tabel lg
+7. lihat struktur table persons
+    describe persons;
