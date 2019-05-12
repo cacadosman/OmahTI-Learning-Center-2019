@@ -1,0 +1,12 @@
+{
+    "name": "cacadosman/orm",
+    "authors": [
+        {
+            "name": "cacadosman",
+            "email": "wetmanz23@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.8"
+    }
+}

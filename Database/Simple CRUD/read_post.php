@@ -19,5 +19,6 @@
 <h1>My Blog</h1>
 <a href="index.php">Home</a> | <a href="new_post.php">Add Post</a> 
 <hr>
+<a href="edit_post.php?id=<?php echo $post['id']; ?>">Edit</a> | <a href="delete_post.php?id=<?php echo $post['id']; ?>">Delete</a>
 <h3><?php echo $post['title']; ?></h3>
 <p><?php echo $post['content']; ?></p>
